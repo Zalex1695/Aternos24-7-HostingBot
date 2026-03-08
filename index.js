@@ -320,7 +320,7 @@ function createBot() {
     bot = mineflayer.createBot({
       username: config['bot-account'].username,
       password: config['bot-account'].password || undefined,
-      auth: config['bot-account'].type,
+      auth: config['bot-account'].auth,
       host: config.server.ip,
       port: config.server.port,
       version: botVersion,
