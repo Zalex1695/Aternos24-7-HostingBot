@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Activo_24h.aternos.me:52074",
+    "ip": "Activo_24h.aternos.me",
     "port": 52074,
     "version": "1.21.1"
   },
