@@ -1,14 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "afkbot_alejo",
-    "password": "",
-    "type": "offline"
+    "username": "afk_alejo",
+    "auth": "offline"
   },
   "server": {
-    "ip": "onager.aternos.host",
+    "host": "Activo_24h.aternos.me",
     "port": 52074,
-    "version": "1.21.1"
+    "version": false
   },
   "position": {
     "enabled": false,
