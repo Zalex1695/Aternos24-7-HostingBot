@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "afkbot_alejo",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "Activo_24h.aternos.me:52074",
+    "port": 52074,
     "version": "1.21.1"
   },
   "position": {
