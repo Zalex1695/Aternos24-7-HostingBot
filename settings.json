@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "onager.aternos.host:52074",
+    "ip": "onager.aternos.host",
     "port": 52074,
     "version": "1.21.1"
   },
