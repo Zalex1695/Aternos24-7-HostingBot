@@ -1,11 +1,11 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK_Bot",
   "bot-account": {
     "username": "afk_alejo",
     "auth": "offline"
   },
   "server": {
-    "host": "Activo_24h.aternos.me",
+    "ip": "Activo_24h.aternos.me",
     "port": 52074,
     "version": false
   },
