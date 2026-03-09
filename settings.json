@@ -7,10 +7,10 @@
   "server": {
     "ip": "Activo_24h.aternos.me",
     "port": 52074,
-    "version": false
+    "version": "1.21.1"
   },
   "position": {
-    "enabled": false,
+    "enabled": true,
     "x": 0,
     "y": 100,
     "z": 0
